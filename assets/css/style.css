@@ -1974,7 +1974,7 @@ a:hover, a:active {
   }
   .navigation .mainmenu > li > a {
     display: block;
-    padding: 35px 18px;
+    padding: 41px 18px;
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
@@ -2784,7 +2784,7 @@ header.sticky-header + section {
 }
 
 .header-right .right-menu li a {
-  padding: 28px 15px;
+  padding: 30px 15px;
   display: block;
   font-size: 20px;
   color: #ffffff;
