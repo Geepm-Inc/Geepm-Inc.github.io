@@ -1,19 +1,30 @@
 ---
 layout: page
-title: "One Time Delivery"
+title: "Cloud & DevOps"
 icon: "pe-7s-timer"
 thumbnail: "/assets/images/services/05.jpg"
 ---
 
-<b>augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium<b>
-<p>11 time-saving pro tips for web designers working in Webflow11 <a href="#">time-saving pro</a> tips for web designers working in Webflow Consectetuer magna vivamus varius. Faucibus vestibulum faucibus elementum vulputate suscipit. Sit convallis litora nunc, vestibulum nibh tincidunt, in qui vel dui elit feugiat nulla, vehicula eos nec dolor conubia, aliquam proinEtiam id euismod. Purus ut dis feugiat, ac massa error leo sed fermentum, non sem velit eget arcu, lectus luctus congue leo dapibus tincidunt. Nunc vitae quis eu. Sit id ullamcorper semper ridiculus, accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium, id facere atque eum! sit nonummy tellus velit vivamus, eu sagittis gravida ut ante. Ut voluptas vestibulum leo pellentesque nulla, taciti congue, vitae nunc metus, imperdiet orci neque sed vestibulum, vestibulum magna ullamcorper posuere massa interdum </p>
-<h4>Risus sociis urna elementum ultricies justo quisque </h4> <p> mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet ultricies vitae dui tempor </p>
-<blockquote class="blockquote single-quote">
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo non labore totam tempora sed neque repellat numquam eaque inventore! Iusto saepe ipsum, ex, commodi asperiores iure dolores amet dolorem eos voluptatum, aliquid incidunt non perferendis earum dignissimos quod iste accusantium deleniti.Risus sociis urna elementum ultricies justo quisque, mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet </p>
-</blockquote>
-<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
-<p>eleifend hac porta faucibus aliquam eros, massa facilisis, sed pede maecenas porttitor id magnis. Ac sed aliquam in felis amet, adipiscing pede a amet faucibus sit, quis in et ullamcorper vel commodo. Volutpat ut pede sem ipsum non, sapien adipiscing, suspendisse neque, quis dolor donec dolor. Sit voluptatibus, scelerisque in semper lacus nostra, ac integer dolor mauris tempus eget</p>
+<h4>Our DevOps practice automates software development processes in order to build, test, release, and manage workloads faster and more reliably.</h4>
 
-Accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium
+Rather than the application development and infrastructure operations teams working in consecutive silos, they work together towards a shared goal. The result is a team that is much more communicative and collaborative. Time to market for software delivery is much faster.
 
-<b>augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentiumaugue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium  </b>
+<h3>Improve Your DevOps Efficiency</h3>
+
+Environment immutability is rapidly growing. The key to making this possible is being able to automate everything. Cloud account creation and protection, code deployment, infrastructure spin up and down, data anonymization… We automate all of these to enable multiple microservice deployments a day. By deploying change frequently, we drastically increase our validated learning leading to a better understanding of what is and isn’t working. It also allows teams to fail fast without breaking others and quickly improves the velocity of your project.
+
+<h3>Match Your Demand with Opportunity</h3>
+
+Cloud-native functionality allows you to better match your demand with opportunity. It also allows you to globally distribute your product so that your customers’ experience remains consistent regardless of their physical location. Cloud-native allows technology to take advantage of the very latest consistency and durability patternsUsers’ data is where they need it when they need it. In our Cloud Center of Excellence, we utilize AWS, Azure, and the Google Cloud platform depending on the scalability needs of the project.
+
+<h3>Autonomous Teams Are Successful Teams</h3>
+
+Autonomy is the key to successful software teams. By owning what they build, teams are empowered to make micro-level changes in response to incoming telemetry. This reduces the fear of change and ensures you are able to operate as quickly as the market demands. Our development teams in Bulgaria operate with this autonomy and quickly respond to technical challenges as they arise. Empowering them to solve problems as they come up saves valuable time in the development cycle which is a win for everyone involved.
+
+<h3>Protect Your Software Investments</h3>
+
+The technology world loves to share its new innovations. But by doing so, all parties (good and bad) benefit from learning how to build software quicker. We work with you to shift your security practices and embed automatic customer protection everywhere. Proactive measures like asset scans and anomaly detections only take minutes — or, in some cases, seconds — and go a long way in keeping your software secure. Failing to do this always results in known vulnerabilities finding their way into your platform.
+
+<h3>Track What Is (and Isn’t) Working</h3>
+
+One of the biggest benefits of DevOps is receiving insight into what is and isn’t working with your software. To track all of this feedback, we set up systems that inform you of your product’s health. Users care less about whether a system is up; they care more that it is working for them. Focus on ensuring your systems are instrumented to enable this type of customer-centric approach.

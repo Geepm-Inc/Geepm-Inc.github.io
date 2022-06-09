@@ -1,19 +1,26 @@
 ---
 layout: page
-title: "App Mobile"
+title: "Mobile Development"
 icon: "pe-7s-phone"
 thumbnail: "/assets/images/services/01.jpg"
 ---
 
-<b>augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium<b>
-<p>11 time-saving pro tips for web designers working in Webflow11 <a href="#">time-saving pro</a> tips for web designers working in Webflow Consectetuer magna vivamus varius. Faucibus vestibulum faucibus elementum vulputate suscipit. Sit convallis litora nunc, vestibulum nibh tincidunt, in qui vel dui elit feugiat nulla, vehicula eos nec dolor conubia, aliquam proinEtiam id euismod. Purus ut dis feugiat, ac massa error leo sed fermentum, non sem velit eget arcu, lectus luctus congue leo dapibus tincidunt. Nunc vitae quis eu. Sit id ullamcorper semper ridiculus, accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium, id facere atque eum! sit nonummy tellus velit vivamus, eu sagittis gravida ut ante. Ut voluptas vestibulum leo pellentesque nulla, taciti congue, vitae nunc metus, imperdiet orci neque sed vestibulum, vestibulum magna ullamcorper posuere massa interdum </p>
-<h4>Risus sociis urna elementum ultricies justo quisque </h4> <p> mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet ultricies vitae dui tempor </p>
-<blockquote class="blockquote single-quote">
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo non labore totam tempora sed neque repellat numquam eaque inventore! Iusto saepe ipsum, ex, commodi asperiores iure dolores amet dolorem eos voluptatum, aliquid incidunt non perferendis earum dignissimos quod iste accusantium deleniti.Risus sociis urna elementum ultricies justo quisque, mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet </p>
-</blockquote>
-<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
-<p>eleifend hac porta faucibus aliquam eros, massa facilisis, sed pede maecenas porttitor id magnis. Ac sed aliquam in felis amet, adipiscing pede a amet faucibus sit, quis in et ullamcorper vel commodo. Volutpat ut pede sem ipsum non, sapien adipiscing, suspendisse neque, quis dolor donec dolor. Sit voluptatibus, scelerisque in semper lacus nostra, ac integer dolor mauris tempus eget</p>
+<h4>We developed our first mobile app in 2001. Since then, we've helped thousands of companies connect with people wherever they are in the world.</h4>
 
-Accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium
+<p>Our custom mobile and IoT solutions are used for everything from streamlining diabetes care to auto-steering tractors to tracking and sharing bike rides. We have experience integrating native and hybrid mobile apps with devices like smart sensors, medical equipment, thermal imaging cameras, building automation systems, farm equipment, and many others.</p>
 
-<b>augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentiumaugue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium  </b>
+<h3>Building a Successful Mobile Strategy</h3>
+
+<p>Mobile apps serve business by providing customers with an experience that goes beyond a marketing website. They fulfill particular needs that web-based solutions can't. We start every mobile project by establishing the connections between our client's business strategy and the mobile app that will help drive it. Understanding audience needs, behavioral patterns, and business capabilities ultimately drives decisions on how the app ties into the complex ecosystem of devices and user expectations.</p>
+
+<h3>Designing Your User’s Mobile Experience</h3>
+
+<p>With a sound mobile strategy in hand, we’re able to design the app’s experience and what it will look like on the front-end. We combine analytical insights with a keen understanding of design standards for each of the major mobile platforms. Our goal is always to reduce the friction of the mobile experience. We build intuitive experiences that get users what they want when they want it and connect them to the client’s business faster and more seamlessly.</p>
+
+<h3>Building and Future-Proofing Your Mobile Product</h3>
+
+<p>Building a mobile app requires a deep understanding of all the tools available in the space. Native apps, progressive web apps, cross-platform tools — each occupies an important place in our mobile development toolset. Our mobile expertise allows us to recommend and implement the best solution for our clients’ goals. That expertise extends to our mobile QA practice as well. We provide end-to-end testing and re-testing to ensure apps stay up to date with the constant march of new platform and device features and functionality.</p>
+
+<h3>Testing For A Mobile World</h3>
+
+<p>Our QA team has extensive experience in testing native, hybrid, web and PWA mobile applications for both iOS and Android. We also have expertise testing integrations native and hybrid mobile apps with many different IoT devices. We test on real devices and we’re integrated with a cloud testing platform which gives us access to over 1000 Android and iOS devices. For mobile automation, we use the Appium tool with Java and C#. Our automation framework also supports Mobile Automation.</p>
