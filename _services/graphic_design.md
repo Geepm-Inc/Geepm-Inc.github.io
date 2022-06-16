@@ -1,19 +1,24 @@
 ---
 layout: page
-title: "Graphic Design"
+title: "Salesforce"
 icon: "pe-7s-pen"
 thumbnail: "/assets/images/services/04.jpg"
 ---
 
-<p>augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium<p>
-<p>11 time-saving pro tips for web designers working in Webflow11 <a href="#">time-saving pro</a> tips for web designers working in Webflow Consectetuer magna vivamus varius. Faucibus vestibulum faucibus elementum vulputate suscipit. Sit convallis litora nunc, vestibulum nibh tincidunt, in qui vel dui elit feugiat nulla, vehicula eos nec dolor conubia, aliquam proinEtiam id euismod. Purus ut dis feugiat, ac massa error leo sed fermentum, non sem velit eget arcu, lectus luctus congue leo dapibus tincidunt. Nunc vitae quis eu. Sit id ullamcorper semper ridiculus, accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium, id facere atque eum! sit nonummy tellus velit vivamus, eu sagittis gravida ut ante. Ut voluptas vestibulum leo pellentesque nulla, taciti congue, vitae nunc metus, imperdiet orci neque sed vestibulum, vestibulum magna ullamcorper posuere massa interdum </p>
-<h4>Risus sociis urna elementum ultricies justo quisque </h4> <p> mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet ultricies vitae dui tempor </p>
-<blockquote class="blockquote single-quote">
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo non labore totam tempora sed neque repellat numquam eaque inventore! Iusto saepe ipsum, ex, commodi asperiores iure dolores amet dolorem eos voluptatum, aliquid incidunt non perferendis earum dignissimos quod iste accusantium deleniti.Risus sociis urna elementum ultricies justo quisque, mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet </p>
-</blockquote>
-<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
-<p>eleifend hac porta faucibus aliquam eros, massa facilisis, sed pede maecenas porttitor id magnis. Ac sed aliquam in felis amet, adipiscing pede a amet faucibus sit, quis in et ullamcorper vel commodo. Volutpat ut pede sem ipsum non, sapien adipiscing, suspendisse neque, quis dolor donec dolor. Sit voluptatibus, scelerisque in semper lacus nostra, ac integer dolor mauris tempus eget</p>
+<h4>Geepm puts years of Salesforce expertise to work for business of all sizes.</h4>
 
-Accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium
+<h3>Consulting</h3>
 
-<b>augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentiumaugue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium  </b>
+Our experts are ready to help you navigate the vast landscape of Salesforce offerings available to you and your business. The Geepm team is made up of technologists who are adept in sales strategies. Our firm offers your team years of implementation experience to enable smooth Salesforce adoption. We guide you through the entire process from ideation to implementation, while leveraging Salesforce to connect with your customers like never before.
+
+<h3>Customization & Implementation</h3>
+
+There is more to Salesforce than meets the eye and it is certainly not limited to it’s out-of-the-box features. Geepm will work with your team to customize your Salesforce implementation technically and functionally thus streamlining and enhancing the processes within your business. We have a deep expertise in APEX, Sites, Visualforce, territory-management, customizable forecasting, multiple currency management, communities, etc. Geepm offers additional solutions in basic sales cloud and service cloud implementations, dealer locators, appexchange products, analytics and more.
+
+<h3>Support</h3>
+
+Geepm provides its clients a unique support model  which guarantees the implementation services we have provided are well supported and that all enhancements and changes are completed in a timely fashion. Our team works hard to keep our clients up-to-date and informed.
+
+<h3>Testing</h3>
+
+Looking for a testing solution for your Salesforce processes? Geepm provided state of the art testing solutions for salesforce.com projects that include automatic GUI testing, functional testing, preparation of test scripts, UT classes and code coverage for your existing modules and implementations.
