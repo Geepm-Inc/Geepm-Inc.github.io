@@ -9,7 +9,7 @@ thumbnail: "/assets/images/services/03.jpg"
 
 High-quality graphic design is essential to making businesses and organizations successful. Graphics define how the world sees those companies and well-designed graphics can drive traffic and engagement within a target audience. Take advantage of graphic design services to make your business a well-known entity in your industry.
 
-Graphic design services can make the difference between success and failure for your business. Here is how KitelyTech can help you with graphic design services.
+Graphic design services can make the difference between success and failure for your business. Here is how Geepm can help you with graphic design services.
 
 <h3>Logo Design</h3>
 
